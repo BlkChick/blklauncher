@@ -1,0 +1,2 @@
+Obsidian Shaders
+Detailed horror-focused Minecraft shaderpack for OptiFine/Iris.
